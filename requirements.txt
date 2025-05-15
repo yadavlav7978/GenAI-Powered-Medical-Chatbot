@@ -1,5 +1,6 @@
 pinecone-client
-langchain==0
+langchain==0.3.14
 langchain-openai==0.3.0
 flask
+python-dotenv==1.0.1
 
